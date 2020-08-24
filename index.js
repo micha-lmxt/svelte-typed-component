@@ -1,0 +1,1 @@
+/* js file is empty because this package only provides a typescript definition for the class SvelteTypedComponent */
