@@ -1,0 +1,26 @@
+{
+  "name": "svelte-typed-component",
+  "version": "1.0.0",
+  "description": "Simplify Typescript Support for Svelte Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micha-lmxt/svelte-typed-component.git"
+  },
+  "keywords": [
+    "Svelte",
+    "Typescript"
+  ],
+  "author": "Michael Lucht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micha-lmxt/svelte-typed-component/issues"
+  },
+  "homepage": "https://github.com/micha-lmxt/svelte-typed-component#readme",
+  "dependencies": {
+    "svelte": "^3.24.1"
+  }
+}
