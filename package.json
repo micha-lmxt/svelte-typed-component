@@ -1,6 +1,6 @@
 {
   "name": "svelte-typed-component",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Simplify Typescript Support for Svelte Apps",
   "main": "index.js",
   "scripts": {
