@@ -77,3 +77,5 @@ export declare class SvelteTypedComponent<Props, Events extends { [key: string]:
      */
     $$slot_def: Slots;
 }
+
+export type SvelteAllProps = { [index: string]: any }
