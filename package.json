@@ -20,7 +20,8 @@
     "url": "https://github.com/micha-lmxt/svelte-typed-component/issues"
   },
   "homepage": "https://github.com/micha-lmxt/svelte-typed-component#readme",
-  "dependencies": {
+  "bundleDependencies": false,
+  "devDependencies": {
     "svelte": "^3.24.1"
   }
 }
