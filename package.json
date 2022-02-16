@@ -2,6 +2,7 @@
   "name": "svelte-typed-component",
   "version": "1.1.2",
   "description": "Simplify Typescript Support for Svelte Apps",
+  "type": "module",
   "main": "index.js",
   "publishConfig": { "registry": "https://npmjs.com/" },
   "scripts": {
